@@ -1,0 +1,4 @@
+def bio():
+	print("Hello, Welcome to my Bio!")
+	print("My name is Kevin Castillo.Im attending Thomas A. Edison Highschool and currently I'm in 11th Grade.I was introduced to HTML, CSS, Javascript last year and now I'm learning Python.I have a great intrest in Python,I've been challenging myself before asking for help since I want to be good at coding.Last year I participated in Games 4 Change competition also participated in Emotion Con which was also a competition. I've received great experiences from the competitions,which helped me be better at coding. I'm willing to do extra work in my coding class since i want to be advanced and get as many opportunities possible. ")
+	
